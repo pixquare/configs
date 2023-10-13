@@ -1,4 +1,0 @@
-{
-  "title": "What's new in v1.13",
-  "content": "Features:\n- Onion skin customization\n- Color adjustment (HSV and RGB values)\n- Isometric guide line\n- Indonesian language support\n\nEnhancements:\n- Preview can be freely resized\n- Color replace can select specific frames and layers to replace\n- After picking color, if the previous tool is not a drawing tool, auto-select brush\n- Optimize performance for linked cells\n\nFixes:\n- Cannot rename some files due to keyboard dismissing itself\n- Cannot share px files with spaces in their names"
-}
