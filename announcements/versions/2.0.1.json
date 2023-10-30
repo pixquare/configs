@@ -1,4 +1,0 @@
-{
-  "title": "What's new in v2.0.1",
-  "content": "Pixquare is now a freemium app with in-app purchase. No subscription!\nThose who bought the app before will still have access to all features.\n\nFixes:\n  - Blend mode not working with clipping mask\n  - Pixel misalignment for a few users (option in the Features menu)\n  - Rare crash when importing .aseprite file with reference image\n  - Rare instances where users are stuck on the first screen"
-}

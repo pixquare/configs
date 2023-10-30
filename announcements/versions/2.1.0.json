@@ -1,0 +1,4 @@
+{
+  "title": "v2.1.0 is ready",
+  "content": "Features:\n  - Major - A brand new core engine that uses less memory and is more performant\n  - If you encounter any bugs with this new engine, please let me know so I can fix it as soon as possible\n\nEnhancements:\n  - Layer/frame limit is now 4 times more than previously\n  - Preview can now follow the main canvas's center\n  - Preview tap to navigate the main canvas\n  - Reference image now has free zooming and panning\n  - Visibility changes are now undo/redoable\n  - Color picker's compact mode has more customization\n  - Some enhancement to line tool performance\n  - Shortening launch time\n  - Canvas rotation's center point is more accurate\n\nFixes:\n  - Preview animation doesn't update when adding/removing frames\n  - Pixel-perfect not working well with dithering brush"
+}
