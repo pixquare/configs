@@ -1,0 +1,4 @@
+{
+  "title": "v2.3.0 is ready",
+  "content": "Features:\n  - Text tool\n  - Contour brush\n\nEnhancements:\n  - Hold the preview button to zoom 100% on the canvas\n  - Relocate color replace, color adjustment, and outline tool to a new button in the toolbar\n\nFixes:\n  - Shading not registering colors after closing and re-opening\n  - Move tool artifact\n  - Black screen and cannot use the app for a few users"
+}
