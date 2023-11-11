@@ -1,0 +1,4 @@
+{
+  "title": "v2.3.2 is here",
+  "content": "Enhancements:\n  - Symmetry lines are now able to work with both on and in-between pixels\n  - Symmetry line's thickness can scale with the canvas\n  - Text tool can use font installed by other apps\n  - Text tool can import font\n  - A new button to select all frames\n  - File preview now also displays canvas size\n\nFixes:\n  - Contour brush sometimes doesn't work with pixel-perfect\n  - Cut also removes underneath content when the move tool is active\n  - Copy/cut sometimes doesn't get the correct content"
+}
