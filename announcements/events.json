@@ -13,5 +13,11 @@
     "imageUrl": "https://pbs.twimg.com/media/F9qbLeWXsAAUZwf?format=jpg&name=medium",
     "id": 12,
     "validThrough": 1698883199
+  },
+  {
+    "title": "Just a heads-up",
+    "content": "There is a known issue where you cannot import/open a file from outside of Pixquare if the app is not already running.\nThe root cause has been identified and fixed. It will be resolved in the next update.\n\nIn the meantime, you can work around this by opening the app first before attempting to open/import files from outside of Pixquare.\nThank you for understanding",
+    "id": 13,
+    "validThrough": 16988831999
   }
 ]
