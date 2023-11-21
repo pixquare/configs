@@ -1,0 +1,4 @@
+{
+  "title": "v2.4.0 is ready",
+  "content": "Feature:\n  - iCloud storage\n\nEnhancements:\n  - Brush/eraser boundary indicator now shows the exact boundary instead of a circle\n  - Transform nodes have bigger touch areas\n  - Onion skin looping\n\nFix:\n  - Content rotation rounding error"
+}
