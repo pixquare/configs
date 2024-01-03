@@ -1,4 +1,0 @@
-{
-  "title": "Huge update of v2.6.0",
-  "content": "Feature:\n- BIG: Tile mode\n\nEnhancements:\n- Sticky layer name column\n- Removed a short delay of brush/eraser initial input\n- Enhanced the \"smoothness\" of pressure sensitivity\n- Bumped the canvas limit up a little (from 500-2500 to 800-3000)\n- Added an option to make indices start from 0 instead of 1\n\nFixes:\n- Some images have the wrong orientation when imported\n- A rare crash with the curve tool\n- Contour brush not working on the vertical edges of the canvas\n- Alpha lock not working with mask layers\n- Importing images from Files overwrites the existing px file with the same name"
-}

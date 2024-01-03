@@ -1,0 +1,5 @@
+{
+  "title": "Huge update of v2.6.0",
+  "content": "Feature:\n- BIG: TILE MODE\n\nEnhancements:\n- Bottom components can be resized and detached\n\nFixes:\n- A crash with tileset when undo/redoing\n- Cannot select individual layer when exporting"
+}
+
