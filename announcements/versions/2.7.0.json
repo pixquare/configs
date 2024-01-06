@@ -1,0 +1,4 @@
+{
+  "title": "What's new in v2.7.0",
+  "content": "FEATURES:\n- New brush/eraser stroke types:\n    + Spray\n    + Spray with random opacity\n    + Jumble\n    + Blur\n- Palette sorting by hue, value, light, saturation, red, green, blue, and alpha.\n- QuickLook and Thumbnail support for Files and other document-browser apps\n\nENHANCEMENTS:\n- When \"Only draw with pencil\" is on, we can finger-swipe on the canvas to navigate frames\n- Bottom components' height can be adjusted\n- The fullscreen text field now has a clear button\n- Palette import from images can retain order\n\nFIX:\n- Tag not being updated when moving frames"
+}
