@@ -1,0 +1,6 @@
+{
+  "title": "What's new in v2.8.0",
+  "content": "FEATURES:\n- BIG: INDEX MODE, Aseprite compatibility included\n\nENHANCEMNETS:\n- Removed the flickering when using eyedropper and color replace\n- Drawing tools with 0% opacity act as the eraser regardless of whether watercolor is on or off\n\nFIXES:\n- Typo that leads to dithering and spraying intensity mix-up\n- Line tool sometimes doesn't draw properly with perfect angle on and even stroke size"
+}
+
+

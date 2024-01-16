@@ -1,4 +1,0 @@
-{
-  "title": "v2.5.0 bings you new features",
-  "content": "Features:\n  - Frame tagging (Aseprite 1.2.x and 1.3.x compatibility included)\n  - Pencil 2 hover preview\n\nEnhancements:\n  - Eye dropper preview now zooms dynamically with the zoom scale of canvas and reference image\n  - Adjustable layer name's width\n  - Frame duration uses value stepper for more precise control\n  - The color panel for tools now has colors from the palette for easier selection\n\nFixes:\n  - Correct Pixquare iCloud folder name\n  - Image processing (eye dropper and importing as .px) not working with indexed PNGs\n  - Clipping mask exporting to wrong colors when the host layer has opacity less than 100%\n  - Curve tool sometimes jumps when lifting the pencil"
-}

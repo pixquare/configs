@@ -1,6 +1,0 @@
-{
-  "title": "v2.1.1 is ready",
-  "content": "Features:\n  - Outline tool\n\nEnhancements:\n  - Disabled touches around the slider area to avoid stray touches\n  - Shortened the timeout for launch request\n\nFixes:\n  - Critical fix: file conversion from version 2.0.x to 2.1.x. A self-fix option is available in settings.\n  - Timelapse background being black\n  - Shading sometimes does not register color selection"
-}
-
-
