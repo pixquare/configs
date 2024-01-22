@@ -8,11 +8,11 @@
     "validThrough": 16923
   },
   {
-    "title": "It's time for an update",
-    "content": "There are several known bugs in v2.5.0 - v2.5.4. If you are experiencing any of the following, please update to v2.5.5 to resolve them:\n  - Auto-save doesn't work\n  - Cannot adjust frame duration\n  - Layer row being shifted to the right\n  - Brush/eraser sometimes doesn't draw single-pixel tap\n\nEven if you have not encountered any of these issues, updating is also recommended to get the latest features.",
-    "actionTitle": "Update Now",
-    "actionUrl": "https://itunes.apple.com/us/app/keynote/id1659428179?mt=8",
-    "id": 17,
-    "validThrough": 1701582301
+    "title": "Help needed!",
+    "content": "There has been a few crashes reported for these 2 scenarios:\n  - At the beginning of color replace.\n  - When openning a file.\nBased on the crash logs, I was not able to find the root cause to fix them. If you have encountered crashes in any of the above situations, please shoot me an email at info@pixqaure.art or join the Discord server and let me know.\nI really appreciate your help to make Pixquare better.\n\nThank you\nSon Nguyen.",
+    "actionTitle": "Join Discord",
+    "actionUrl": "https://discord.gg/5stJz4cDGM",
+    "id": 18,
+    "validThrough": 1706692979
   }
 ]
