@@ -9,10 +9,10 @@
   },
   {
     "title": "Help needed!",
-    "content": "There has been a few crashes reported for these 2 scenarios:\n  - At the beginning of color replace.\n  - When openning a file.\nBased on the crash logs, I was not able to find the root cause to fix them. If you have encountered crashes in any of the above situations, please shoot me an email at info@pixqaure.art or join the Discord server and let me know.\nI really appreciate your help to make Pixquare better.\n\nThank you\nSon Nguyen.",
+    "content": "It has come to my attention that a few users are experiencing repeated crash when trying to use gradient/color bucket tool.\nFirst of all, I'm very sorry that this happens and interupts the experience while using Pixquare.\nSecondly, I want to resolve this issue as soon as possible, however, I was not able to find the root cause based on the crash logs. So if you have encountered this crash, please shoot me an email at info@pixqaure.art or join the Discord server and let me know how to re-create this crash.\nI really appreciate your help to make Pixquare better.\n\nThank you\nSon Nguyen.",
     "actionTitle": "Join Discord",
     "actionUrl": "https://discord.gg/5stJz4cDGM",
-    "id": 18,
-    "validThrough": 17066
+    "id": 19,
+    "validThrough": 1706692979
   }
 ]
