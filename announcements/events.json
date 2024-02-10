@@ -8,11 +8,10 @@
     "validThrough": 16923
   },
   {
-    "title": "Help needed!",
-    "content": "It has come to my attention that a few users are experiencing repeated crash when trying to use gradient/color bucket tool.\nFirst of all, I'm very sorry that this happens and interupts the experience while using Pixquare.\nSecondly, I want to resolve this issue as soon as possible, however, I was not able to find the root cause based on the crash logs. So if you have encountered this crash, please shoot me an email at info@pixqaure.art or join the Discord server and let me know how to re-create this crash.\nI really appreciate your help to make Pixquare better.\n\nThank you\nSon Nguyen.",
-    "actionTitle": "Join Discord",
-    "actionUrl": "https://discord.gg/5stJz4cDGM",
-    "id": 19,
-    "validThrough": 1706692
+    "title": "🌟 Lunar New Year SALE! ✨",
+    "content": "Enjoy 30% OFF of Pixquare app for 3 days: Feb 10 to Feb 12.",
+    "imageUrl": "https://bellevuecollection.com/app/uploads/2023/12/LNY24__Mobile-Hero-768x512-1.png",
+    "id": 20,
+    "validThrough": 1707708291
   }
 ]
