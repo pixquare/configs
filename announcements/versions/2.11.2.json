@@ -1,0 +1,4 @@
+{
+  "title": "Handy joystick and more, v2.11.0",
+  "content": "FEATURES:\n  - Handy joystick with these available actions:\n     - Activate secondary color\n     - Canvas flip\n     - Activate tool's alternative mode\n     - Black and white canvas\n     - Please suggest more useful actions\n  - Noise dithering\n\nENHANCEMENTS:\n  - Quick eye dropper can turn on/off for both finger and pencil long-press\n  - Gesture pad can be enabled in portrait mode\n  - When the selection tool is selected, pencil double-tap will select a grid square\n  - Gradient dithering is more fluent\n  - Frame navigation looping\n  - Added gradient generator to the gradient tool"
+}
