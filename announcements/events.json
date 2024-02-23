@@ -8,9 +8,11 @@
     "validThrough": 16923
   },
   {
-    "title": "App freeze alert",
-    "content": "Hi all,\nIt has been reported that the app freezes when you try to use brush or eraser on older devices. I'm actively working on resolving this.\nI hope you'll understand and be patient. I'll try to push out the fix as soon as possible.\n\nThank you\nSon Nguyen",
-    "id": 21,
-    "validThrough": 17077082911
+    "title": "Update now",
+    "content": "Hi all,\nIt has been reported that for older devices, the app freezes when you try to use brush or eraser. The issue has been identified and resolved.\nIf you are experiencing app freeze, please update now to fix that.\n\nThank you\nSon Nguyen",
+    "actionTitle": "Update Now",
+    "actionUrl": "https://itunes.apple.com/us/app/keynote/id1659428179?mt=8",
+    "id": 22,
+    "validThrough": 1708791652
   }
 ]
