@@ -1,4 +1,0 @@
-{
-  "title": "Minor things in v2.8.2",
-  "content": "ENHANCEMENTS:\n- Timelapse export auto adds 5 seconds of the last frame to the end\n- Theme icon now has dynamic anti-alias setting based on icon size\n- Move tool can work with group/folder\n- Group/folder's children can be quickly merged into 1 layer\n\nFIXES:\n- Timelapse export artifact with size multiplier\n- Canvas resize UI being overlapped by the status bar\n- Crash with really really big size multiplier when exporting\n- Group/folder with only tilemap layers cannot be expanded\n- Crash when existing palette has more than 254 colors"
-}

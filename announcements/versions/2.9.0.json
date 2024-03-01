@@ -1,4 +1,0 @@
-{
-  "title": "Custom brush and more, v2.9.0",
-  "content": "FEATURE:\n- Custom brushes. Importable and exportable as \".pxbr\" files.\n\nENHANCEMENTS:\n- Reworked the spray brush, it sprays the current brush instead of just 1 pixel\n- Optimization for tilemap tools\n- Mouse's input can draw in only-pencil mode\n- Tilemap layers can be converted to regular layers\n\nFIX:\n- Memory leak when using symmetry tool or tilemap layers"
-}
