@@ -1,6 +1,6 @@
 {
   "latestVersion": "2.12.0",
   "experiments": {
-    "multiTab": false
+    "multiTab": true
   }
 }
