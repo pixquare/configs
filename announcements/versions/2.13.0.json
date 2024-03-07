@@ -1,0 +1,4 @@
+{
+  "title": "v2.13.0 is here",
+  "content": "Features:\n- Individual cel opacity\n- File template\n- Selection movement without moving content\n- Stats recording\n\nEnhancements:\n- Quick zoom level on the bottom bar\n- The bottom bar also shows the layer name and frame index\n\nFixes:\n- Spray tool ignoring alpha lock\n- Frame duration cannot be adjusted"
+}

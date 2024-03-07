@@ -9,7 +9,7 @@
   },
   {
     "title": "Frame duration bug",
-    "content": "Hi all,\nThere is a bug on v2.12.x that prevents you from adjusting frame duration. This bug has been fixed and I have submitted an update to patch this.\nIt might take some time for it to be approved, and I will let you know as soon as it's available.\n\nThank you for understanding\nSon Nguyen",
+    "content": "Hi all,\nThere is a bug on v2.12.x that prevents you from adjusting frame duration. This bug has been fixed and I have submitted an update to patch it.\nIt might take some time for it to be approved, and I will let you know as soon as it's available.\n\nThank you for understanding\nSon Nguyen",
     "id": 23,
     "validThrough": 17087916529
   }
