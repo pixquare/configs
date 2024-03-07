@@ -8,11 +8,9 @@
     "validThrough": 16923
   },
   {
-    "title": "Update now",
-    "content": "Hi all,\nIt has been reported that for older devices, the app freezes when you try to use brush or eraser. The issue has been identified and resolved.\nIf you are experiencing app freeze, please update now to fix that.\n\nThank you\nSon Nguyen",
-    "actionTitle": "Update Now",
-    "actionUrl": "https://itunes.apple.com/us/app/keynote/id1659428179?mt=8",
-    "id": 22,
-    "validThrough": 1708791652
+    "title": "Frame duration bug",
+    "content": "Hi all,\nThere is a bug on v2.12.x that prevents you from adjusting frame duration. This bug has been fixed and I have submitted an update to patch this.\nIt might take some time for it to be approved, and I will let you know as soon as it's available.\n\nThank you for understanding\nSon Nguyen",
+    "id": 23,
+    "validThrough": 17087916529
   }
 ]
