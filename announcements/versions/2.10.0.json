@@ -1,4 +1,0 @@
-{
-  "title": "Custom objects and more, v2.10.0",
-  "content": "FEATURES:\n  - Custom objects\n  - Tools' options are now draggable and sticky when dragged\n  - Import Gif as px will all frames\n\nENHANCEMENTS:\n  - Corrected the behavior of the alpha-lock\n  - The bottom panels' docking position is more obvious"
-}
