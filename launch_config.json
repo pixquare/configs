@@ -1,7 +1,6 @@
 {
-  "latestVersion": "2.15.0",
+  "latestVersion": "2.15.1",
   "experiments": {
-    "splitView": false,
-    "multiTab": false
+    "multiTab": true
   }
 }
