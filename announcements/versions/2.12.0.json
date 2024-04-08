@@ -1,4 +1,0 @@
-{
-  "title": "Multi-tab and more, v2.12.0",
-  "content": "IMPORTANT:\n  - Canvas resize will lead to an infinite loading on this version. Please update to v2.12.1 to fix that.\n\nFEATURES:\n  - Multi-tab\n\nENHANCEMENTS:\n  - Added step direction for gradient generator\n  - Custom objects can be long-press + drag to add to canvas\n  - Reduce lag when showing pixel grid on big canvases\n  - Reference layer from GIF can change frame with the canvas\n  - Grayscale image compatibility\n  - Preview's tap-to-navigate can be turned off\n  - Theme will automatically update to its latest version\n  - Colors in palette can be edited directly"
-}

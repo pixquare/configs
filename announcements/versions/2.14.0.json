@@ -1,4 +1,0 @@
-{
-  "title": "v2.14.0 brings you split view",
-  "content": "Feature:\n- Split view\n\nEnhancements:\n- Reference images of small sizes are sharpened\n- UI adapts better to available space\n\nFixes:\n- Keyboard shortcuts affect all tabs, including hidden ones"
-}
