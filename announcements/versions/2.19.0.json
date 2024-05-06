@@ -1,0 +1,4 @@
+{
+  "title": "v2.19.0 is ready",
+  "content": "Features:\n  - Precise move tool\n  - Drawing tools can do color replace\n\nEnhancements:\n  - Gradient generator can ignore source colors\n  - Lowered color helper's minimum color count to 2\n  - Handy joystick's position is persisted across sessions\n  - Some enhancements to color replace\n  - Some enhancements to sprite sheet import\n  - Some enhancements to text tool"
+}
