@@ -1,4 +1,0 @@
-{
-  "title": "v2.17.0 is ready",
-  "content": "Features:\n  - Sprite sheet import\n  - Added padding to sprite sheet export\n\nEnhancements:\n  - Panels now cannot be dragged off the top edge of the screen\n  - Stepper can be tapped and enter input directly\n  - Added some default showcase artwork\n\nFixes:\n  - Artifact when resizing content\n  - Attempt to fix a crash when removing frames"
-}

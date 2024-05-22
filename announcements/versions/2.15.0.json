@@ -1,4 +1,0 @@
-{
-  "title": "v2.15.0 is ready",
-  "content": "Features:\n- More exporting options:\n  + Only selected area\n  + Layers to individual PNGs\n  + Frames to individual PNGs\n  + Trimming\n- New version availability alert\n- Undo/redo buttons and opacity slider can be hidden\n\nEnhancements:\n- Significantly improved performance when having many frames and layers\n- Bottom bar bounds info will remain active as long as there is a selection\n- Make it a bit easier to activate the quick eye dropper with pencil\n\nFix:\n- Color hex code input strange behavior\n- Split screen not working properly sometimes"
-}
