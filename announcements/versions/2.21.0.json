@@ -1,0 +1,4 @@
+{
+  "title": "v2.21.0, new tileset features are here",
+  "content": "Features:\n  - Tileset import/export\n  - New tilesets and tilemap layers from regular layers\n\nFix:\n  - Sprite sheet import not working with Files app"
+}
