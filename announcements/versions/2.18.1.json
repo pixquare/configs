@@ -1,4 +1,0 @@
-{
-  "title": "v2.18.0 is ready",
-  "content": "Enhancements:\n  - Canvas grid and guide line's minimum size is 1 instead of 8\n  - Added undo/redo to handy joystick and gesture pad\n  - Added multitab selection to gesture pad\n  - Enhanced gesture pad delay time\n  - Selection preview color\n  - Undo/redo gestures can be turned off\n  - Frame duration can be set in terms of FPS\n  - Adjustable drawing tip preview show/hide size threshold\n\nFix:\n  - Layer selection in export not matching the correct order if there are reference layer(s)\n  - Frame content not showing after undoing frame removal\n  - Swipe to navigate frames and quick layer selection not working well together\n  - Some rare cases where new artwork size text fields cannot be cleared completely"
-}
