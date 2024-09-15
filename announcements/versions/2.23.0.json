@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.23.0",
+  "content": "Features:\n  - Fun mode\n  - Sampling (or referencing) layer for color bucket\n  - Layer row color\n  - Onion skin over content mode\n\nEnhancements:\n  - Added enhanced hover tooltip for a few buttons\n  - Side-docked layer panel is pushed to be right on the screen edge\n  - The main color picker can be expanded even bigger\n  - Better crash reporting to help with troubleshooting\n\nFixes:\n  - Side-docked layer panel's button being overlapped by the toolbox"
+}
