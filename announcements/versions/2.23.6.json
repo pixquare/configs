@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.23.6",
+  "content": "  - New and more advanced hover preview\n    + Display the actual color instead of just an outline\n    + Rendered on the selected layer for the best accurate preview\n    + Works with custom brushes\n  - Pixel grid show/hide threshold can be adjusted\n  - Pixel grid on a low threshold is thinner to avoid cluster"
+}
