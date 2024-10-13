@@ -1,4 +1,0 @@
-{
-  "title": "Tons of little things in v2.20.1",
-  "content": "Enhancements:\n  - Reworked anti-aliasing with more flexibility\n  - Panel repositioning works better when rotating the device\n  - Artwork export can have a bigger size multiplier when \"Only selected area\" option is selected.\n  - The canvas grid's config is saved after being switched off and on again.\n\nFixes:\n  - Fixed shading can be re-activated while being active\n  - Stabilized some tools\n  - 3-finger hold undos rapidly instead of redoing\n  - The canvas grid has lighter colors than the selected colors\n  - Canvas resize frame sometimes gets stuck on the screen after resizing\n  - Eye dropper (only selected layers) not working with layers inside folders\n  - Quick selection not working with additive mode\n  - Gradient tool UI doesn't update after changing the palette\n  - Attempt to fix color jump when using the wheel picker"
-}

@@ -1,4 +1,0 @@
-{
-  "title": "v2.20.0 is ready",
-  "content": "Features:\n  - Anti-aliasing (canvas and drawing-tool modes)\n  - Slider bookmark\n  - Spanish, German, and Portuguese support\n\nEnhancements:\n  - Eyedropper only-selected-layers mode\n  - Added quick layer selection to the gesture pad and joystick's action list\n  - Quick layer selection now ignores locked layers\n\nFix:\n  - Gesture pad downward swipe not working\n  - Toolbox UI not being updated when changed by joystick\n  - Joystick displaying the wrong secondary color"
-}

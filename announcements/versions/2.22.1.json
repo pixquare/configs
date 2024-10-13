@@ -1,4 +1,0 @@
-{
-  "title": "v2.22.1, Apple Pencil Pro support and more",
-  "content": "Features:\n  - Apple Pencil Pro squeeze gesture support (quick tool customization and quick color palette)\n  - Layer panel can be docked to the sides\n\nEnhancements:\n  - Export settings will be saved for each file individually\n  - Option to show export button on canvas\n  - Frame navigation (buttons/swipe gesture) works with tags\n  - Layer duplication keeps the layer name the same with -Copy suffix\n  - Unlocked importing for free version\n\nFixes:\n  - Text tool's color picker cannot input hex code\n  - Layer's contextual shows on the first tap instead of the 2nd one"
-}
