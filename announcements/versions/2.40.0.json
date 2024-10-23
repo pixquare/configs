@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.40.0",
+  "content": "Features:\n  - Clipboard support for layers, frames, and cells\n  - Option to save palette loaded from Lospec automatically\n\nEnhancements:\n  - Original coordinate paste will place the content in the center of the screen if the original coordinate is outside of the canvas\n  - Minor performance improvements\n  - Minor UI enhancements\n\nFixes:\n  - Tile brush freezes the app when applied outside of the canvas\n  - Unstable precise move button"
+}
