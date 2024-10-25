@@ -8,9 +8,11 @@
     "validThrough": 16923
   },
   {
-    "id": 26,
-    "title": "Update coming soon",
-    "content": "First and foremost, I want to apologize for the few critical bugs I have introduced in the last few days. If you have experienced any of them lately, please forgive me for my sloppy work there.\n\nI have been working tirelessly to address them and v2.40.2 has been submitted for reviewing and releasing. Once the new version is available, I'll update you again.\n\nThank you for understanding and continuing to support Pixquare.",
+    "id": 27,
+    "title": "Update now to fix bugs",
+    "content": "There have been a few critical bugs that were introduced in the last few days. If you have experienced any of them lately, please forgive me for my sloppy work there.\n\nTo fix them, please update to v2.40.2\n\nThank you for understanding and continuing to support Pixquare.",
+    "actionTitle": "Update",
+    "actionUrl": "https://itunes.apple.com/us/app/keynote/id1659428179?mt=8",
     "validThrough": 1729914743
   }
 ]
