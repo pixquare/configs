@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.41.0",
+  "content": "Features:\n  - Move tool can work with multiple frames at once\n  - Show/hide the pixel grid from the joystick and gesture pad\n  - Enable/disable canvas rotation from the joystick and gesture pad\n\nEnhancements:\n  - Non-reset-after tools in the joystick will switch to the previous tool if applied again\n\nFixes:\n  - Content flipping on the same axis cannot be done repeatedly\n  - Content flip and clear not being undoable\n  - Minor UI issue with expanded-width timeline panel"
+}
