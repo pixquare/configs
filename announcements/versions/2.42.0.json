@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.42.0",
+  "content": "Features:\n  - Brand new customizable keyboard shortcuts system with a lot more shortcuts\n  - Rotsprite for content rotation\n\nEnhancements:\n  - Moving and transforming are available as soon as a selection is made\n  - New file dimension text fields can take simple math expressions\n  - Added an option to reset layout in Settings > Canvas\n  - Reference layer can be displayed outside of the canvas\n  - Fixed file previews sometimes don't load\n  - Export screen shows the result dimensions before exporting\n  - Canvas has a border now\n\nFixes:\n  - Large icon preview not working after relaunching\n  - Fixed precise move tap again"
+}
