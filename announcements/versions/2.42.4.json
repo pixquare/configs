@@ -1,0 +1,4 @@
+{
+  "title": "Major changes in v2.42.4",
+  "content": "Hi there,\n\nAlong with a few minor feature changes, this version contains a much bigger underlying change I've made to the app: migrating to a new version of the programming language.\n\nThis is a very high-risk migration and might cause major bugs to the app. As a solo developer, I cannot test everything thoroughly in Pixquare, so if you encounter any critical bugs, please let me know via email or Discord.\n\nI really appreciate it and hope you'll understand if the potential bugs create any inconvenience for you.\n\nThank you"
+}
