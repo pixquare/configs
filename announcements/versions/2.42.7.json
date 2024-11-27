@@ -1,0 +1,4 @@
+{
+  "title": "What's news in v2.42.7",
+  "content": "- Canvas grid and guide line dimensions can be adjusted independently\n- Canvas grid and guide line configuration are saved with each file instead of being a global setting\n- Added layer and frame operations (creating, duplicating, and removing) to gesture pad and joystick\n- Joystick max actions increased to 10\n- Added some frame info to the animation drag button\n- Removed the duplicated last frame in the ping-pong animation export\n- Some minor UI fixes and enhancements\n- Fixed some properties of tilemap layer not being carried over when converted to a regular layer\n- Fixed some funkiness with the fps duration modifier\n- Fixed cel opacity not working properly\n- Fixed a rare crash with tileset\n- Fixed indexed mode color adjustment crash"
+}
