@@ -8,11 +8,12 @@
     "validThrough": 16923
   },
   {
-    "id": 27,
-    "title": "Update now to fix bugs",
-    "content": "There have been a few critical bugs that were introduced in the last few days. If you have experienced any of them lately, please forgive me for my sloppy work there.\n\nTo fix them, please update to v2.40.2\n\nThank you for understanding and continuing to support Pixquare.",
-    "actionTitle": "Update",
-    "actionUrl": "https://itunes.apple.com/us/app/keynote/id1659428179?mt=8",
-    "validThrough": 1729914743
+    "id": 28,
+    "title": "BLACK FRIDAY DEAL: 50% OFF with promo code BLACK_FRIDAY",
+    "content": "If you still have not purchased Pixquare already, it is time now. Use promo code BLACK_FRIDAY to get the deal.\n\nIf you already purchased Pixquare, I wish you a lovely day with lots of joy and pixels :)\n\nBest\nApp creator, Son Nguyen\n\n(This promotion lasts until November 30)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwaZXJyd-7GXXSYVr0KhcbRlXAr4O52TIng&s",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=black_friday",
+    "validThrough": 1733036400
   }
 ]
