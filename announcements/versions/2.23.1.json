@@ -1,4 +1,0 @@
-{
-  "title": "What's news in v2.23.1",
-  "content": "Enhancements:\n  - Preview \"fit\" button can be tapped to fit the content to the window\n  - Added zoom scale selection to preview\n  - Preview's background now matches the canvas's background\n  - When multiple frames are selected, show the content of the latest selected frame\n  - No longer show check box for frame multi-selection so we can see the frame number\n\nFixes:\n  - Various crash fixes"
-}

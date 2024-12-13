@@ -1,4 +1,0 @@
-{
-  "title": "What's news in v2.23.6",
-  "content": "Features:\n  - Layers and folders can have multiple masks\n  - Masks can be merged into the main layer\n  - Layer panel can be expanded to take up the entire width of the screen\n     + Settings > General > Layer panel position > Expanded width\n\nEnhancements:\n  - Improved layer merge\n  - Added back outline preview for drawing tools with 0% opacity\n  - Added support for new files via deep link\n  - Setting panels are a bit bigger to make them easier to navigate\n\nFixes:\n  - Various rare crashes"
-}
