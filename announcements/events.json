@@ -15,5 +15,11 @@
     "actionTitle": "Redeem now",
     "actionUrl": "pixquare://app.pixquare.art/launch?ref=black_friday",
     "validThrough": 1733036400
+  },
+  {
+    "id": 29,
+    "title": "Crash when pasting in another file",
+    "content": "There is a known bug in v2.45.0 that crashes the app when pasting content from one file to another. It has been found and fixed. The App Store reviewing process is pending. I'll update again once the update is available.",
+    "validThrough": 17330364000
   }
 ]
