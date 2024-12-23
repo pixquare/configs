@@ -1,25 +1,14 @@
 [
   {
-    "actionTitle": "Test action",
-    "actionUrl": "https://pixquare.art",
-    "content": "Test content",
-    "id": 11,
-    "title": "Test title",
-    "validThrough": 16923
-  },
-  {
-    "id": 28,
-    "title": "BLACK FRIDAY DEAL: 50% OFF with promo code BLACK_FRIDAY",
-    "content": "If you still have not purchased Pixquare already, it is time now. Use promo code BLACK_FRIDAY to get the deal.\n\nIf you already purchased Pixquare, I wish you a lovely day with lots of joy and pixels :)\n\nBest\nApp creator, Son Nguyen\n\n(This promotion lasts until November 30)",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqwaZXJyd-7GXXSYVr0KhcbRlXAr4O52TIng&s",
+    "id": 30,
+    "title": "MERRY CHRISTMAS! Enter promo code HOHOHO for 30% OFF",
+    "content": "I hope you're having a happy Christmas with your family and friends.\n\nIf you still have not purchased Pixquare already, it is time now. Use promo code HOHOHO to get 30% off.\n\nIf you already purchased Pixquare, thank you and enjoy the holidays :)\n\nBest\nApp creator, Son Nguyen\n\n(This promotion lasts until December 25)",
+    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BNl6IaNAc37if5zi_JkweguQzvkACrEjxw&s",
     "actionTitle": "Redeem now",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=black_friday",
-    "validThrough": 1733036400
-  },
-  {
-    "id": 29,
-    "title": "Crash when pasting in another file",
-    "content": "There is a known bug in v2.45.0 that crashes the app when pasting content from one file to another. It has been found and fixed. The App Store reviewing process is pending. I'll update again once the update is available.",
-    "validThrough": 173303
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=HOHOHO",
+    "audiences": [
+      { "all": {} }
+    ],
+    "validThrough": 1735192800
   }
 ]
