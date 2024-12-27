@@ -16,7 +16,11 @@
     "title": "Crash when canvas grid is off",
     "content": "There is a bug on v2.46.0 that crashes the app if the canvas grid is disabled. I've submitted a patch to fix that and it's waiting to be reviewed. In the meantime, please enable canvas grid to avoid this crash.\n\nThank you for your understanding.",
     "audiences": [
-      { "all": {} }
+      {
+        "version": {
+          "string": "2.46.0"
+        }
+      }
     ],
     "validThrough": 17352756570
   }
