@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.46.2",
+  "content": "- Multiple tiles can be selected\n- When multiple tiles are selected, tools will apply them randomly\n- Added secondary color activation, content flip, and canvas flip to the keyboard shortcut list\n- Added symbol keys to the keyboard key list\n- Added the \"Only selected area\" option when converting a regular layer to a tilemap layer\n- Fixed tile bucket doesn't use the new selected tile\n- Better default new file name\n- Fixed frame dots can see through layer name\n- Fixed canvas resize being a bit jumpy",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
