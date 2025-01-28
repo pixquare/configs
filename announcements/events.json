@@ -23,5 +23,18 @@
       }
     ],
     "validThrough": 17352756570
+  },
+  {
+    "id": 32,
+    "title": "Cannot create new tile bug",
+    "content": "There is a bug on v2.48.0 that prevents new tile creation on new empty tilemap layer. I'm sorry for this bug, and a new version has been submitted for review to fix this issue. In the meantime, a workaround is to create new tilemap layers from regular layers.\n\nThank you for your understanding.",
+    "audiences": [
+      {
+        "version": {
+          "string": "2.48.0"
+        }
+      }
+    ],
+    "validThrough": 17352756570
   }
 ]
