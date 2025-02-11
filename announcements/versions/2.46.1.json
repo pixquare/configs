@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.46.1",
-  "content": "Features:\n- Layer-only panel (in addition to the current timeline panel), can be enabled in Settings > General > Layer panel position\n- Tile fill (or tile bucket) for tilemap layers\n- Visible-layer sampling mode for the color bucket tool\n- Sampling modes for the magic wand tool\n- New mode for the squeeze action: tool selection\n- Precise rotation\n\nEnhancements:\n- Selected frame option for frame selection when exporting\n- Tileset can be renamed\n- Rotation angle is added to the bottom info bar\n- Rotation snapping is done in 45-degree increments instead of 90 degrees\n- Increased the size of the tappable area in layer row\n\nFixes:\n- Layer preview ignoring the layer's opacity\n- Custom sheet export sometimes doesn't include all frames\n- 1-frame tag not being removed when its only frame is removed\n- Selection bounds info disappearing as soon as the pencil is lifted\n- Some rare crash fixes",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

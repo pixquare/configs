@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.47.0",
-  "content": "Features:\n- Post-processing (CRT, vignette, and bloom)\n- Center-to-corner shape creation in addition to corner-to-corner\n- Color replace with multiple color pairs\n- Thai language support\n- Image drag-n-drop from other apps to Pixquare\n- Tile eye dropper\n\nEnhancements:\n- Multiple tiles can be moved at once\n- Added next/previous color within the palette to the keyboard shortcut list\n- Added a View in Files option for files\n- Added a low-memory warning to avoid out-of-memory device freeze\n- The bottom info bar can show info of multiple frames\n- Auto-select tile brush when selecting a tile if the tile eraser is active\n- Added an option to clear time-lapse data for individual files\n\nFixes:\n- Fixed layer-only panel preview hovers triggering the main panel's preview enlarged view\n- Fixed share view pausing music\n- Some rare crashes",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

@@ -1,4 +1,0 @@
-{
-  "title": "So many new things to try in v2.45.1",
-  "content": "Features:\n- Snapping while moving content\n- Brush stabilizer\n- Layer content preview (hover to see bigger preview)\n\nEnhancements:\n- Custom row/column configuration when exporting sprite sheet\n- Quick dimension swap button and aspect ratio preview in the new file panel\n- Reference layers can be flipped\n- Added a new shortcut-able action: Slider quick tool\n- Removed the brief app freeze when using the color bucket/magic wand on really big canvases\n- Some other UI enhancements\n\nFixes:\n- A rare crash with iCloud storage"
-}
