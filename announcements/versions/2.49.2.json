@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.49.0",
+  "content": "Features:\n- Tile move tool\n- Quick shape (applicable for brush, eraser, and straight line)\n- HSL mode for color adjustment\n\nEnhancements:\n- Shortcuts (gesture pad and joystick) will switch to the respective tile or regular tools based on the current context\n- Improved brush stabilization\n- Persisted handy joystick's actions when turned off and on again\n- Some other minor enhancements\n\nFixes:\n- Fixed blurry preview in layer-only panel",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
