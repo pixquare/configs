@@ -1,30 +1,5 @@
 [
   {
-    "id": 30,
-    "title": "MERRY CHRISTMAS! Enter promo code HOHOHO for 30% OFF",
-    "content": "I hope you're having a happy Christmas with your family and friends.\n\nIf you still have not purchased Pixquare already, it is time now. Use promo code HOHOHO to get 30% off.\n\nIf you already purchased Pixquare, thank you and enjoy the holidays :)\n\nBest\nApp creator, Son Nguyen\n\n(This promotion lasts until December 25)",
-    "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9BNl6IaNAc37if5zi_JkweguQzvkACrEjxw&s",
-    "actionTitle": "Redeem now",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=HOHOHO",
-    "audiences": [
-      { "all": {} }
-    ],
-    "validThrough": 173519
-  },
-  {
-    "id": 31,
-    "title": "Crash when canvas grid is off",
-    "content": "There is a bug on v2.46.0 that crashes the app if the canvas grid is disabled. I've submitted a patch to fix that and it's waiting to be reviewed. In the meantime, please enable canvas grid to avoid this crash.\n\nThank you for your understanding.",
-    "audiences": [
-      {
-        "version": {
-          "string": "2.46.0"
-        }
-      }
-    ],
-    "validThrough": 17352756570
-  },
-  {
     "id": 32,
     "title": "Update to fix bug",
     "content": "There is a bug on v2.48.0 that prevents new tile creation on new empty tilemap layer.\n\nUpdate to the latest version to fix that bug now.",
@@ -37,6 +12,17 @@
     ],
     "actionTitle": "Update",
     "actionUrl": "https://apps.apple.com/us/app/id1659428179",
+    "validThrough": 17352756570
+  },
+  {
+    "id": 33,
+    "title": "HAPPY VALENTINE'S DAY",
+    "content": "I hope you'll have a lovely Valentine's Day with your loved ones. To celebrate the magic of love, use promo code LOVE to get 30% off.\n\nBest wishes\nApp creator, Son Nguyen\n\n(This promotion is only available today)",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=LOVE",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
     "validThrough": 17352756570
   }
 ]
