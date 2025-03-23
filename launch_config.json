@@ -2,5 +2,20 @@
   "latestVersion": "2.52.4",
   "experiments": {
     "newLayerSelectorRows": false
-  }
+  },
+  "scheduledDiscounts":
+  [
+    {
+      "id": "firstDiscount",
+      "code": "discount_30",
+      "percentage": 30,
+      "waitTime": 604800
+    },
+    {
+      "id": "secondDiscount",
+      "code": "50_discount",
+      "percentage": 50,
+      "waitTime": 1209600
+    }
+  ]
 }
