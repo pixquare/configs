@@ -24,5 +24,16 @@
       { "freeUsers": {} }
     ],
     "validThrough": 173
+  },
+  {
+    "id": 34,
+    "title": "SPRING SALE",
+    "content": "Use code SPRING for 30% off now.\n\n(This sale lasts until the end of March)",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=SPRING",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1743465600
   }
 ]
