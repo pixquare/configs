@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.54.0",
+  "content": "Features:\n• Italian support\n• Traditional Chinese support\n\nEnhancements:\n• Canvas size limit relies on total pixel count instead of individual dimensions\n• Can drag-n-drop multiple images to import as artworks at once\n• Image drag-n-drop persists the file name\n• Gesture pad has a new toggle to auto-switch to the previous tool if the assigned tool is already selected\n• More UI enhancements\n\nFixes:\n• .px files don't open when tapped in the Files app\n• Space + drag to pan sometimes doesn't work\n• Some UI issues with palette\n• Fixed issues with tilemap",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
