@@ -15,17 +15,6 @@
     "validThrough": 17352756570
   },
   {
-    "id": 33,
-    "title": "HAPPY VALENTINE'S DAY",
-    "content": "I hope you'll have a lovely Valentine's Day with your loved ones. To celebrate the magic of love, use promo code LOVE to get 30% off.\n\nBest wishes\nApp creator, Son Nguyen\n\n(This promotion is only available today)",
-    "actionTitle": "Redeem now",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=LOVE",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 173
-  },
-  {
     "id": 34,
     "title": "SPRING SALE",
     "content": "Use code SPRING for 30% off now.\n\n(This sale lasts until the end of March)",
@@ -35,5 +24,16 @@
       { "freeUsers": {} }
     ],
     "validThrough": 1743465600
+  },
+  {
+    "id": 35,
+    "title": "APRIL SALE",
+    "content": "Use code APRIL for 30% off now.\n\n(This sale lasts until the end of April)",
+    "actionTitle": "Redeem now",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=APRIL",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1746057600
   }
 ]
