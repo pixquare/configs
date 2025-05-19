@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.48.0",
-  "content": "Features:\n- Guide line system revamp with the addition of perspective points\n- Round pixel post-processing\n\nEnhancements:\n- Tile duplication\n- Canvas resize corner knobs can retain the aspect ratio\n- The panel pull tab's touch area is bigger for easier opening/closing\n- Added Save to gesture pad and handy joystick\n- Some other minor UI enhancements\n\nFixes:\n- Fixed some rare cases where the color bucket disables all tools\n- Some rare crashes",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

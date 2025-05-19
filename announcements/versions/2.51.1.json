@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.51.0",
-  "content": "Enhancements:\n- Timelapse recording works with different canvas sizes (canvas resize no longer removes previous timelapse data)\n- Layer preview now shows trimmed images\n- Dithering pressure presets\n- Option to duplicate the tileset when duplicating tilemap layers\n- Option to keep the arrangement when converting a regular layer to a tilemap layer\n- Reworked color palette color edit and removal\n- Added joystick to no-UI mode\n- Quick pinch to fit canvas on screen\n- Added a reset button to canvas resize",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

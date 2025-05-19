@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.50.0",
-  "content": "Features:\n- Unrestricted color placement of the palette\n- Animation direction and loop count customization for tags\n- 4-finger tap to hide/show all UI\n\nEnhancements:\n- Selection preview color is now dynamically high-contrast to improve visibility\n- Tile canvas grid and selected tile outline are also dynamically high-contrast\n- Hidden layers can be moved\n- Auto-select a group when collapsing it\n- Gesture pad will switched to the previous tool if the target tool is already selected\n- Make the frame movement indicator bigger\n- Made the joystick's radius smaller for easier activation\n- More concise naming for merged and duplicated layers\n\nFixes:\n- Fixed stabilizer not working with symmetry\n- Fixed tile brush is not activated when selecting a tile with the tile eraser being active",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}
