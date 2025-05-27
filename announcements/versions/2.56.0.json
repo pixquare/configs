@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.55.0",
+  "content": "Features:\n  • Layer fx\n     ◦ Pattern overlay\n     ◦ Color overlay\n     ◦ Outline\n     ◦ Anti-aliasing\n  • Levels adjustment for all R, G, B, and A channels independently\n  • Rescaling content option when resizing the canvas\n  • Cel z-index\n\nEnhancements:\n  • Auto-save for iCloud\n  • Collapse button for reference images\n  • Tile grid no longer shows ... on small devices\n  • Clear all button for the gradient tool\n  • Dynamic scaling for guide line in the preview\n  • The bottom info bar also shows the start time of a frame\n  • Other UI enhancements\n\nFixes:\n  • Minor compatibility issue with older Aseprite files\n  • Cursor mode cannot draw multiple strokes without lifting the touch",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
