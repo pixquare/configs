@@ -1,8 +1,7 @@
 {
   "latestVersion": "2.56.2",
   "experiments": {
-    "newLayerSelectorRows": false,
-    "oneFingerPan": false
+    "newLayerSelectorRows": false
   },
   "scheduledDiscounts":
   [
