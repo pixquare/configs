@@ -1,7 +1,8 @@
 {
-  "latestVersion": "2.56.3",
+  "latestVersion": "2.56.6",
   "experiments": {
-    "newLayerSelectorRows": false
+    "newLayerSelectorRows": false,
+    "colorsAds": true
   },
   "scheduledDiscounts":
   [
