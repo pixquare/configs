@@ -15,17 +15,6 @@
     "validThrough": 17352756570
   },
   {
-    "id": 36,
-    "title": "MAY SALE",
-    "content": "Use code MAY for 30% off now.\n\n(This sale lasts until the end of May)",
-    "actionTitle": "Redeem now",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=MAY",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 1748818800
-  },
-  {
     "id": 37,
     "title": "-- JUNE SALE --",
     "content": "\nUse code JUNE for 30% off now.\n\n(This event lasts until the end of June)",
@@ -36,5 +25,17 @@
       { "freeUsers": {} }
     ],
     "validThrough": 1751410800
+  },
+  {
+    "id": 38,
+    "title": "-- JULY SALE --",
+    "content": "\nUse code JULY for 30% off now.\n\n(This event lasts until the end of July)",
+    "actionTitle": "Redeem now",
+    "imageUrl": "https://www.midlifechic.com/wp-content/uploads/2015/12/sale.png",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=JULY",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1754089200
   }
 ]
