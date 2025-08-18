@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.58.0",
+  "content": "Features:\n• Color remap\n• Palette's color reduction\n• RGBA and Indexed mode conversion\n\nEnhancements:\n• 'Selected' mode for layer configuration when exporting\n• In-order and random multi-tile placement strategies for tilemaps\n• Swipe navigation can work with vertical swipes to select layers\n• Some tools, like color replace, outline, etc., can remember their last used parameters\n• A toggle to make manual frame navigation ignore tags\n• Timeline panel now auto-scrolls to the selected cel when opened\n• Palette import from images now picks the most distinct colors\n• Layer merge now ignores hidden layers\n• Adjustable layer-only panel's width\n• Adjustable gesture pad's opacity\n• Adjustable slider tool size\n• Added pixel-perfect toggle to keyboard shortcut\n• New artwork panel remembers its last used parameters\n• Auto show keyboard when entering text input\n• Added numbers to image grid import\n\nFixes:\n• Some keyboard shortcut issues\n• 2x2 dithering presets don't include the max level\n• Rare infinite loading at launch\n• Some rare crashes/app freezes",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
