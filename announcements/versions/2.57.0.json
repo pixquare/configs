@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.57.0",
-  "content": "Features:\n• Dutch support\n\nEnhancements:\n• The full undo/redo stack is retained after canvas resize\n• Color adjustment now has 2 modes: canvas and palette\n• Aseprite user data compatibility\n• Option to allow empty and duplicated tiles when importing tilesets\n• Stats reset button\n• Added guide line toggle to keyboard shortcuts\n• Launch animation can be turned off\n• Horizontal slider's value can be tapped to input text, long-pressed to reset\n• The bottom info bar can show the lock status of the selected layer\n• The main color picker will remain open when using the eye dropper\n• Added palette previous/next color and deselect actions to the gesture pad and handy joystick\n• The Fx color picker now has the palette and can input a hex code\n• Loading save palettes now has the option to either replace or add the new colors\n\nFixes:\n• The tilemap bucket tool sometimes doesn't fill the entire area\n• An extra tileset is being created when reusing a tileset\n• Tileset board doesn't honor the 'Indices from 0' setting\n• Eyedropper not working properly with a couple of blend modes\n• Unfunctional color adjustment, level adjustment, outline, and antialiasing after using the move tool\n• Cel dot tap sometimes selects the wrong frame\n• Quick layer selection doesn't work with locked layers\n• The round pixel post processor cannot be disabled",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

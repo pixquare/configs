@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.52.1",
-  "content": "Features:\n- One-sided UI mode\n- Full compatibility with Aseprite tileset/tilemap\n- Thumbnail preview support for custom brushes, custom objects, tilesets, and timelapse files\n\nEnhancements:\n- Gradient save/load for the gradient tool\n- Customizable tileset canvas grid color\n- Timelapse export now uses a speed multiplier instead of a max length\n- Timelapse videos now have customizable last-frame showcase durations\n- Timelapse data will also copied when an artwork is copied\n- Timelapse videos can be exported independently from their original artwork\n- Always show layer multi-select checkbox\n\nFixes:\n- Move tool sometimes doesn't work after using the magic wand\n- A rare crash when exporting the sprite sheet",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.55.0",
-  "content": "Features:\n  • Quick gallery widget\n  • Cursor mode for a better experience on smaller devices\n  • Finger single-tap quick shape\n  • BMP export support\n\nEnhancements:\n  • Option to turn off timelapse recording\n  • An option to keep empty and duplicated tiles when converting from regular layers\n  • Tilemap export custom file name\n  • The perfect-ratio circle center-corner will work as center-edge\n  • Reference layer from images in the clipboard\n  • Batch reference layer original size and rasterization options\n  • Selection buttons adapted to the left-hand mode\n  • Option to show guide line in preview\n  • Other UI enhancements\n\nFixes:\n  • Color drop's preview not matching touch location\n  • Some rare issues with the move tool and hidden/locked layers\n  • The color bucket sometimes doesn't work with symmetry lines\n  • Tags not matching the width of their frames\n  • The custom brush panel is not scrollable\n  • Some issue with Aseprite conversion involving tilemap and indexed mode",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

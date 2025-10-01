@@ -1,9 +1,0 @@
-{
-  "title": "What's new in v2.53.2",
-  "content": "Features:\n• Onboarding for new users\n• A few UI redesigns here and there\n• Polish support\n\nEnhancements:\n• Undoable canvas resize\n• Canvas-aligned mode for custom brush\n• Added 2-finger taps to gesture pad\n• The text tool can have multiple lines\n• Fit-to-window button for reference images\n• Canvas will auto-scroll when using the selection tool\n• Timelapse export now can show the final duration\n• Moveable precise move and dithering pattern panel\n• Batch layer rename\n\nFixes:\n• Some incorrect dithering pattern thumbnails\n• A few rare crashes",
-  "audiences": [
-    {
-      "all": {}
-    }
-  ]
-}

@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.59.0",
+  "content": "Features:\n• Batch content paste to all selected cels\n• Copy visible option\n\nEnhancements:\n• Anti-aliasing option for the text tool\n• 'Do not show again' option for layer/frame removal confirmation\n• Indexed mode blur tool to use RGB value proximity instead of raw index value\n• Default palettes can be deleted\n• Onion skin to respect tags with a toggle to ignore them in settings\n• Option to disable the isometric guide line's vertical lines\n• Other UI improvements\n\nFixes:\n• Stop showing export size warning for .aseprite export\n• Animation scrub to respect frame navigation looping setting\n• Attempted to fix the file deletion button sometimes does not work",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
