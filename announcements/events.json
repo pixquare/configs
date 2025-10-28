@@ -15,18 +15,6 @@
     "validThrough": 17352756570
   },
   {
-    "id": 39,
-    "title": "-- AUGUST SALE - LAST CHANCE --",
-    "content": "\nUse code AUGUST for 30% off now.\n\n(This event lasts until the end of August)",
-    "actionTitle": "Redeem now",
-    "imageUrl": "https://www.midlifechic.com/wp-content/uploads/2015/12/sale.png",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=AUGUST",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 1756767600
-  },
-  {
     "id": 40,
     "title": "-- SEPTEMBER SALE - LAST CHANCE --",
     "content": "\nUse code SEPTEMBER for 30% off now.\n\n(This event lasts until the end of September)",
@@ -37,5 +25,17 @@
       { "freeUsers": {} }
     ],
     "validThrough": 1759359600
+  },
+  {
+    "id": 41,
+    "title": "-- HALLOWEEN SALE --",
+    "content": "\nUse code HALLOWEEN for 30% off now.\n\n(This event lasts until the end of October)",
+    "actionTitle": "Redeem now",
+    "imageUrl": "https://www.midlifechic.com/wp-content/uploads/2015/12/sale.png",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=HALLOWEEN",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1762038000
   }
 ]
