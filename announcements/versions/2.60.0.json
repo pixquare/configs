@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.60.0",
+  "content": "Feature:\n• Tiled mode (not the same as tileset/tilemap :D)\n• Auto back-up system\n\nEnhancements:\n• Added some visual feedback when gesture pad actions are triggered\n• Customizable color for canvas background and border\n• More guides for new users\n\nFix:\n• Minor UI fixes",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
