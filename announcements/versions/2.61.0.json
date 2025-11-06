@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.61.0",
+  "content": "Features:\n• Brush size board (keyboard shortcut included)\n• Tool presets\n\nEnhancements:\n• Option to create a palette from the active selection\n• 'Bigger' option of the color picker applies to floating mode as well\n•  Canvas option's color picker can accept hex input\n• Above/below color keyboard shortcut\n• Other minor enhancements\n\nFixes:\n• Some keyboard shortcuts don't work on iOS 26\n• Imported Aseprite files sometimes have incorrect tag colors",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
