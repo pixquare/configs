@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.62.0",
+  "content": "Features:\n• PSD Compatibility\n• On-screen point cursor (Settings > Canvas > Cursor)\n• Stateful bottom panels toggle (Settings > General > Stateful bottom panels)\n\n• Other UI enhancements here and there",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
