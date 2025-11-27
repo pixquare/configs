@@ -1,32 +1,5 @@
 [
   {
-    "id": 32,
-    "title": "Update to fix bug",
-    "content": "There is a bug on v2.48.0 that prevents new tile creation on new empty tilemap layer.\n\nUpdate to the latest version to fix that bug now.",
-    "audiences": [
-      {
-        "version": {
-          "string": "2.48.0"
-        }
-      }
-    ],
-    "actionTitle": "Update",
-    "actionUrl": "https://apps.apple.com/us/app/id1659428179",
-    "validThrough": 17352756570
-  },
-  {
-    "id": 41,
-    "title": "-- HALLOWEEN SALE --",
-    "content": "\nUse code HALLOWEEN for 30% off now.\n\n(This event lasts until the end of October)",
-    "actionTitle": "Redeem now",
-    "imageUrl": "https://www.midlifechic.com/wp-content/uploads/2015/12/sale.png",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=HALLOWEEN",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 1762038000
-  },
-  {
     "id": 42,
     "title": "Help needed",
     "content": "\nIf you have encountered a crash when inputting text in Pixquare on iOS 26, please let us know via Discord or email (info@pixquare.art).\nWe'd love to learn about how this happens and fix it.\nThank you so much\nPixquare Team.",
@@ -36,5 +9,17 @@
       { "all": {} }
     ],
     "validThrough": 176203
+  },
+  {
+    "id": 43,
+    "title": "-- BLACK FRIDAY SALE - LAST CHANCE --",
+    "content": "\nUse code BLACK_FRIDAY for 50% off.\n\nGet your full access now before this discount is gone!!!",
+    "actionTitle": "Redeem now",
+    "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcp7OZXZ8_OtlX0_loZy4aiH6rTkX1sOvjVvELG95HEkF7bH5h5LMWYtAI2c0aknMGQqaIiFvKy5hF4l5ke4JmXWnwMXvnguet4331WDU-z90CzQ3j58ge--SAONuWWgLDcualIxg?key=ai6NE-SEcV8HB9y7pO9OP-EZ",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=BLACK_FRIDAY",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1764630000
   }
 ]
