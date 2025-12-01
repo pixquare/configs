@@ -2,7 +2,8 @@
   "latestVersion": "2.62.1",
   "experiments": {
     "newLayerSelectorRows": false,
-    "colorsAds": true
+    "colorsAds": true,
+    "uiAnimationSpeed": true
   },
   "scheduledDiscounts":
   [
