@@ -21,5 +21,16 @@
       { "freeUsers": {} }
     ],
     "validThrough": 1764630000
+  },
+  {
+    "id": 44,
+    "title": "Help needed",
+    "content": "\nIf you have encountered a crash when inputting text in Pixquare on iOS 26, please let us know via Discord or email (info@pixquare.art).\nWe'd love to learn about how this happens and fix it.\nThank you so much\nPixquare Team.",
+    "actionTitle": "Join Discord",
+    "actionUrl": "https://discord.gg/5stJz4cDGM",
+    "audiences": [
+      { "all": {} }
+    ],
+    "validThrough": 17646300000
   }
 ]
