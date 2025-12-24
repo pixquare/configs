@@ -1,16 +1,5 @@
 [
   {
-    "id": 42,
-    "title": "Help needed",
-    "content": "\nIf you have encountered a crash when inputting text in Pixquare on iOS 26, please let us know via Discord or email (info@pixquare.art).\nWe'd love to learn about how this happens and fix it.\nThank you so much\nPixquare Team.",
-    "actionTitle": "Join Discord",
-    "actionUrl": "https://discord.gg/5stJz4cDGM",
-    "audiences": [
-      { "all": {} }
-    ],
-    "validThrough": 176203
-  },
-  {
     "id": 43,
     "title": "-- BLACK FRIDAY SALE - LAST CHANCE --",
     "content": "\nUse code BLACK_FRIDAY for 50% off.\n\nGet your full access now before this discount is gone!!!",
@@ -32,5 +21,17 @@
       { "all": {} }
     ],
     "validThrough": 1764630
-  }
+  },
+  {
+    "id": 45,
+    "title": "-- CHRISTMAS SALE --",
+    "content": "\nUse code CHRISTMAS for 50% off.\n\nGet your full access now before this discount is gone!!!",
+    "actionTitle": "Redeem now",
+    "imageUrl": "https://img.freepik.com/free-vector/flat-christmas-season-celebration-background_23-2149872289.jpg?semt=ais_hybrid&w=740&q=80",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=CHRISTMAS",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1767394800
+  },
 ]
