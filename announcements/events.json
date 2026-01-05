@@ -1,17 +1,5 @@
 [
   {
-    "id": 43,
-    "title": "-- BLACK FRIDAY SALE - LAST CHANCE --",
-    "content": "\nUse code BLACK_FRIDAY for 50% off.\n\nGet your full access now before this discount is gone!!!",
-    "actionTitle": "Redeem now",
-    "imageUrl": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcp7OZXZ8_OtlX0_loZy4aiH6rTkX1sOvjVvELG95HEkF7bH5h5LMWYtAI2c0aknMGQqaIiFvKy5hF4l5ke4JmXWnwMXvnguet4331WDU-z90CzQ3j58ge--SAONuWWgLDcualIxg?key=ai6NE-SEcV8HB9y7pO9OP-EZ",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=BLACK_FRIDAY",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 1764630000
-  },
-  {
     "id": 44,
     "title": "Help needed",
     "content": "\nIf you have encountered a crash when inputting text in Pixquare on iOS 26, please let us know via Discord or email (info@pixquare.art).\nWe'd love to learn about how this happens and fix it.\nThank you so much\nPixquare Team.",
@@ -34,4 +22,12 @@
     ],
     "validThrough": 1767394800
   },
+  {
+    "id": 46,
+    "title": "Bug in 2.64.0",
+    "content": "\nThere is a known bug in v2.64.0 that prevents you from changing the brush size. We have found the root cause and submitted a new version for approval to resolve this issue.\n\nWe are sorry for the inconvenience, and thank you so much for understanding.\n\nPixquare Team.",
+    "audiences": [
+      { "version": { "string": "2.64.0" } }
+    ]
+  }
 ]
