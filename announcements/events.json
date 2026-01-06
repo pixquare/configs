@@ -1,16 +1,5 @@
 [
   {
-    "id": 44,
-    "title": "Help needed",
-    "content": "\nIf you have encountered a crash when inputting text in Pixquare on iOS 26, please let us know via Discord or email (info@pixquare.art).\nWe'd love to learn about how this happens and fix it.\nThank you so much\nPixquare Team.",
-    "actionTitle": "Join Discord",
-    "actionUrl": "https://discord.gg/5stJz4cDGM",
-    "audiences": [
-      { "all": {} }
-    ],
-    "validThrough": 1764630
-  },
-  {
     "id": 45,
     "title": "-- NEW YEAR SALE --",
     "content": "\nUse code '2026' for 30% off.\n\nGet your full access now before this discount is gone!!!",
@@ -23,11 +12,21 @@
     "validThrough": 1767394800
   },
   {
-    "id": 46,
-    "title": "Bug in 2.64.0",
-    "content": "\nThere is a known bug in v2.64.0 that prevents you from changing the brush size. We have found the root cause and submitted a new version for approval to resolve this issue.\n\nWe are sorry for the inconvenience, and thank you so much for understanding.\n\nPixquare Team.",
+    "id": 47,
+    "title": "Update now",
+    "content": "\nThere is a known bug in v2.64.0 that prevents you from changing the brush size.\n\nPlease update to the latest version to fix this issue.\n\nPixquare Team.",
     "audiences": [
       { "version": { "string": "2.64.0" } }
+    ],
+    "actionTitle": "Update now",
+    "actionUrl": "https://apps.apple.com/app/id1659428179"
+  },
+  {
+    "id": 48,
+    "title": "Crash in tilemap",
+    "content": "\nThere is a known bug that crashes the app when pasting and using the Move tool on tilemaps.\n\nWe have submitted an update with the fix to Apple for approval, and it will be available soon.\nWe are sorry for the inconvenience, and thank you so much for understanding.\n\nPixquare Team.",
+    "audiences": [
+      { "version": { "string": "2.64.1" } }
     ]
   }
 ]
