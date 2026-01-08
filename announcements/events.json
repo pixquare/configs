@@ -23,10 +23,12 @@
   },
   {
     "id": 48,
-    "title": "Crash in tilemap",
-    "content": "\nThere is a known bug that crashes the app when pasting and using the Move tool on tilemaps.\n\nWe have submitted an update with the fix to Apple for approval, and it will be available soon.\nWe are sorry for the inconvenience, and thank you so much for understanding.\n\nPixquare Team.",
+    "title": "Update now!",
+    "content": "\nThere is a known bug that crashes the app when pasting and using the Move tool on tilemaps.\n\nPlease update to the latest version to fix this issue.\n\nPixquare Team.",
     "audiences": [
       { "version": { "string": "2.64.1" } }
-    ]
+    ],
+    "actionTitle": "Update now",
+    "actionUrl": "https://apps.apple.com/app/id1659428179"
   }
 ]
