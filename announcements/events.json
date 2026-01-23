@@ -1,17 +1,5 @@
 [
   {
-    "id": 45,
-    "title": "-- NEW YEAR SALE --",
-    "content": "\nUse code '2026' for 30% off.\n\nGet your full access now before this discount is gone!!!",
-    "actionTitle": "Redeem now",
-    "imageUrl": "https://img.freepik.com/vector-mien-phi/van-ban-kieu-logo-2026-phong-cach-giay-cho-dem-giao-thua_1017-60883.jpg?semt=ais_hybrid&w=740&q=80",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=2026",
-    "audiences": [
-      { "freeUsers": {} }
-    ],
-    "validThrough": 1767394800
-  },
-  {
     "id": 47,
     "title": "Update now",
     "content": "\nThere is a known bug in v2.64.0 that prevents you from changing the brush size.\n\nPlease update to the latest version to fix this issue.\n\nPixquare Team.",
@@ -30,5 +18,17 @@
     ],
     "actionTitle": "Update now",
     "actionUrl": "https://apps.apple.com/app/id1659428179"
+  },
+  {
+    "id": 49,
+    "title": "-- LAST CHANCE - JANUARY SALE --",
+    "content": "\nUse code 'JAN' for 30% off.\n\nGet your full access now before this discount is gone!!!",
+    "actionTitle": "Redeem now",
+    "imageUrl": "https://cdn-icons-png.flaticon.com/256/8819/8819106.png",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=jan",
+    "audiences": [
+      { "freeUsers": {} }
+    ],
+    "validThrough": 1769554800
   }
 ]
