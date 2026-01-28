@@ -20,15 +20,15 @@
     "actionUrl": "https://apps.apple.com/app/id1659428179"
   },
   {
-    "id": 49,
-    "title": "-- LAST CHANCE - JANUARY SALE --",
-    "content": "\nUse code 'JAN' for 30% off.\n\nGet your full access now before this discount is gone!!!",
+    "id": 50,
+    "title": "-- JANUARY SALE --",
+    "content": "\nUse code 'JAN' for 50% off.\n\nGet your full access now before this discount is gone!!!",
     "actionTitle": "Redeem now",
     "imageUrl": "https://cdn-icons-png.flaticon.com/256/8819/8819106.png",
     "actionUrl": "pixquare://app.pixquare.art/launch?ref=jan",
     "audiences": [
       { "freeUsers": {} }
     ],
-    "validThrough": 1769554800
+    "validThrough": 1769900400
   }
 ]
