@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.65.0",
+  "content": "Features:\n- Tileset/tilemap auto new tiles\n- Duplicate file button\n- Swap mode for tileset reordering\n\nEnhancements:\n- Resizable dithering presets\n- Tools presets added to the toolbox squeeze action\n- Added line/shape mode switching to the gesture pad and the joystick\n- Holding the tileset button to temporarily hide the grid\n- Other minor UI enhancements\n\nFixes:\n- Move tool's rare undo/redo glitch\n- Tilemap grid color not being saved\n- Other minor issues",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
