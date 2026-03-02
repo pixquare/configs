@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.66.0",
+  "content": "Features:\n- New fun mode: Dino companion\n- JPEG export\n\nEnhancements:\n- Custom brush panel can be dragged out\n- Snap to guide lines can work with isometric guide lines\n- Shading can be activated from the gesture pad, joystick, and keyboard shortcuts\n- Option to skip big timelapse frames to avoid failure due to big canvases\n- Top-left buttons no longer overlap with the windowed mode buttons\n\nFixes:\n- Direct indexed .aseprite saving error\n- Some UI inconsistencies",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
