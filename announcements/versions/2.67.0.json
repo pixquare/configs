@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.67.0",
+  "content": "Features:\n- Modifier system, starting with 'Animation speed multiplier' modifier\n- Added 'Learn' panel\n\nEnhancements:\n- Customizable contiguous corners\n- Adjustable marching ants opacity\n- Palette match for the eyedropper and the main color picker\n- Indexed PNG export for indexed file\n- Can eyedrop colors on reference layers outside of the canvas\n- New custom objects can be added from multiple selected layers\n- Distantly linked cels now have a clear indicator\n- Customizable eyedropper preview position\n- Bottom info bar flips its arrangement when left-hand mode is enabled\n- Other UI and functional enhancements\n\nFixes:\n- Cannot reorder tiles to the last index in 'move' mode\n- Minor issue with 'Selected layer' option when exporting",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
