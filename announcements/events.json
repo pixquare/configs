@@ -20,15 +20,15 @@
     "actionUrl": "https://apps.apple.com/app/id1659428179"
   },
   {
-    "id": 52,
-    "title": "-- SPRING SALE - LAST CHANCE --",
-    "content": "\nUse code 'SPRING' for 50% off.\n\nGet your full access now before this discount is gone!!!",
+    "id": 53,
+    "title": "-- APRIL SALE --",
+    "content": "\nUse code 'APRIL' for 30% off.\n\nGet your full access now before this discount is gone!!!",
     "actionTitle": "Redeem now",
     "imageUrl": "https://cdn-icons-png.flaticon.com/256/8819/8819106.png",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=SPRING",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=APRIL",
     "audiences": [
       { "freeUsers": {} }
     ],
-    "validThrough": 1774998000
+    "validThrough": 1777593540
   }
 ]
