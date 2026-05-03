@@ -1,5 +1,5 @@
 {
-  "latestVersion": "2.66.2",
+  "latestVersion": "2.67.3",
   "experiments": {
     "newLayerSelectorRows": false,
     "colorsAds": true,
@@ -11,13 +11,13 @@
     {
       "id": "firstDiscount",
       "code": "discount_30",
-      "percentage": 30,
+      "percentage": 40,
       "waitTime": 604800
     },
     {
       "id": "secondDiscount",
       "code": "50_discount",
-      "percentage": 50,
+      "percentage": 60,
       "waitTime": 1209600
     }
   ]
