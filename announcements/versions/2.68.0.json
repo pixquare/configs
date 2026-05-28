@@ -1,0 +1,11 @@
+{
+  "title": "What's new in v2.68.0",
+  "content": "Features:\n- Free arrangement for tiles within tilesets.\n- JSON option for spritesheet export.\n- Quick onion skin range adjustment.\n\nEnhancements:\n- The magic wand can work with multiple selected layers.\n- Preview can be turned off.\n- Tags can be disabled.\n- Added selection modes to keyboard shortcuts.\n- Eyedropper can pick colors from tiled canvases.\n- Some minor performance enhancements.\n\nFixes:\n- The gesture pad cannot switch to the selection tool from the shape tool.\n- Presets sometimes save the incorrect tools.\n- Minor visual color correction for the saturation value of the color picker.",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
+
+
