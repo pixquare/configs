@@ -9,14 +9,14 @@
   "scheduledDiscounts":
   [
     {
-      "id": "firstDiscount",
-      "code": "discount_30",
-      "percentage": 40,
+      "id": "1stDiscount",
+      "code": "good_day",
+      "percentage": 45,
       "waitTime": 604800
     },
     {
-      "id": "secondDiscount",
-      "code": "50_discount",
+      "id": "2ndDiscount",
+      "code": "great_day",
       "percentage": 60,
       "waitTime": 1209600
     }
