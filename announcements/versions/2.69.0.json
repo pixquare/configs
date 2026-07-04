@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.69.0",
+  "content": "Features:\n- Liquify tools: push, expand, and shrink\n- Added Recently deleted folder\n- New artwork from clipboard content\n\nEnhancements:\n- Added an option to remove duplicate tiles\n- Tiled mode toggle-all action to gesture pad/joystick\n- Added the little Dino to the theme system\n- New frames are added together after the last selected frame instead of after each individual selected frame.\n- Added an option to pin the layer property panel\n- AA threshold for the text tool\n- Some minor UI enhancements\n\nFixes:\n- Fixed color adjustment/level adjustment not working on multiple layers with the same tileset\n- Minor UI bugs",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
