@@ -4,7 +4,7 @@
     "newLayerSelectorRows": false,
     "colorsAds": true,
     "uiAnimationSpeed": true,
-    "newCanvasSetup": false,
+    "newCanvasSetup": true,
     "threeFingerSlide": true
   },
   "scheduledDiscounts":
