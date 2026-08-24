@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.71.0",
+  "content": "Feature:\n- Brand-new polygon tool with custom side count and corner radius, replacing the rectangle/ellipse tool.\n\nEnhancements:\n- Tilemap indices can be exported as JSON\n- Added color replace, color adjustment, outline, AA, and liquify tools to gestures and keyboard shortcuts.\n- A few minor fixes",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
