@@ -20,8 +20,8 @@
     "actionUrl": "https://apps.apple.com/app/id1659428179"
   },
   {
-    "id": 58,
-    "title": "-- LAST CHANCE - SUMMER SALE --",
+    "id": 59,
+    "title": "-- SUMMER SALE --",
     "content": "\nUse code 'SUMMER' to get 45% off.\nThis discount event will end soon!!!",
     "actionTitle": "Redeem now",
     "imageUrl": "https://cdn-icons-png.flaticon.com/256/8819/8819106.png",
@@ -29,6 +29,6 @@
     "audiences": [
       { "freeUsers": {} }
     ],
-    "validThrough": 1785542
+    "validThrough": 1788220740
   }
 ]
