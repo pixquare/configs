@@ -1,0 +1,9 @@
+{
+  "title": "What's new in v2.72.0",
+  "content": "Features:\n- Custom pixel ratio\n- New cel operations: shifting and rippling deletion.\n\nEnhancements:\n- When in frame multi-select mode, drag-and-drop will select the frame range.\n- Added stabilizer and alpha-lock toggle to gesture pad, joystick, and keyboard shortcuts.\n\nFixes:\n- Incorrect onion skin index with tags.\n- Polygon with corner radius being cut off when the corners are outside the canvas.",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
