@@ -3,9 +3,7 @@
   "experiments": {
     "newLayerSelectorRows": false,
     "colorsAds": true,
-    "uiAnimationSpeed": true,
-    "newCanvasSetup": true,
-    "threeFingerSlide": true
+    "customPixelSize": false,
   },
   "scheduledDiscounts":
   [
