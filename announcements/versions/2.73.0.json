@@ -1,0 +1,11 @@
+{
+  "title": "What's new in v2.73.0",
+  "content": "Feature:\n- Magic layer with 4 magics for dynamic animation:\n  + Parallax\n  + Skew\n  + Tween (color values, displacement, size, rotation)\n  + Wave\n- Animated PNG export\n\nEnhancements:\n- PSD export to use the selected frame index instead of always using the first index.\n- More performant pixel grid for bigger canvases\n- Some minor UI enhancements.\n- Some minor fixes.",
+  "audiences": [
+    {
+      "all": {}
+    }
+  ]
+}
+
+
