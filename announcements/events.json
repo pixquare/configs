@@ -20,15 +20,15 @@
     "actionUrl": "https://apps.apple.com/app/id1659428179"
   },
   {
-    "id": 60,
-    "title": "-- LAST CHANCE - SUMMER SALE --",
-    "content": "\nUse code 'SUMMER' to get 45% off.\nThis discount event will end soon!!!",
+    "id": 61,
+    "title": "-- SEPTEMBER SALE --",
+    "content": "\nUse code 'SEPTEMBER' to get 45% off.\nGet the full access while the discount lasts now!!!",
     "actionTitle": "Redeem now",
     "imageUrl": "https://cdn-icons-png.flaticon.com/256/8819/8819106.png",
-    "actionUrl": "pixquare://app.pixquare.art/launch?ref=SUMMER",
+    "actionUrl": "pixquare://app.pixquare.art/launch?ref=SEPTEMBER",
     "audiences": [
       { "freeUsers": {} }
     ],
-    "validThrough": 1788220740
+    "validThrough": 1790812200
   }
 ]
